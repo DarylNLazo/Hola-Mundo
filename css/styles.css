@@ -1,0 +1,15 @@
+body{
+     background-color: black; /* La página de fondo será negra */
+     color: white; /*El texto de la página será blanco */
+}
+.contenedor-texto .titulo {
+     font-size: 50px;
+     font-weight: normal;
+     margin-bottom: 40px;
+}
+
+.contenedor-texto .codificador {
+     font-weight: bold;
+     color: #00D329;
+     font-style: normal;
+}
